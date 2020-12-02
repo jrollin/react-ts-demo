@@ -2,6 +2,9 @@
 
 App used during workshop
 
+![](./comics_screen.png)
+
+
 * can list comics from json response
 * can filter among title using search box
 * can increment/decrements favorites comics counter
