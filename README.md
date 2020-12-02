@@ -1,22 +1,39 @@
 # React + Typescript demo app
 
-App used for demo 
+App used during workshop
 
+* can list comics from json response
+* can filter among title using search box
+* can increment/decrements favorites comics counter
+
+
+
+Topics covered: 
 
 * typescript and react types
-* hooks
+* useEffect and useState hooks
 * react testing library
 * storybook
+* global state using useContext and useReducer hooks
 
 
+## Partial implementation ! 
+
+TODO
+
+* missing tests (with reacting testing library)
+* switch to real api call (using json response in current code)
+* add storybook component
+* deploy static page with CI
 
 ## Install dependencies
 
-using yarn 
+using yarn dependency manager
 
 ```bash
 yarn
 ```
+
 
 ## Initial setup 
 
